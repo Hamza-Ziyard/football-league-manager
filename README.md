@@ -11,7 +11,7 @@ This is football premier league manager concept code. The system will have the o
     8: Displaying played matches
     9: Search for a played match
     10: Sorting matches played through the no.of wins
-    11: Sorting matches played through the no.of wins
+    11: Sorting matches played through the no.of goals scored
     10: Adding random matches to the system   
     10: Open JavaFX GUI
     11: Open Angular GUI

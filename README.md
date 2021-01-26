@@ -49,7 +49,7 @@ ___
 ___
 ### Steps to run the program
 
-1. Go to the terminal and run sbt -run inorder to connect both the front-end and the back-end.
+1. Go to the terminal and run sbt run inorder to connect both the front-end and the back-end.
 
         football-league-manager\Football Premier League Manager
         sbt run

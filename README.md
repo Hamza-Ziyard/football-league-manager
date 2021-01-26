@@ -38,13 +38,13 @@ ___
     
 1. Navigate to the ui folder and install the node modules.
 
-    football-league-manager\Football Premier League Manager\ui
-    npm install
+        football-league-manager\Football Premier League Manager\ui
+        npm install
     
 2. Add angular material design inside the ui folder
 
-    football-league-manager\Football Premier League Manager\ui
-    ng add @angular/material
+        football-league-manager\Football Premier League Manager\ui
+        ng add @angular/material
     
 ___
 ### Steps to run the program

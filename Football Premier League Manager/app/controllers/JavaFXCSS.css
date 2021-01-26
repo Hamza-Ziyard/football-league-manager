@@ -1,0 +1,105 @@
+.table-view{
+   -fx-background-color: transparent;
+   -fx-table-cell-border-color: transparent;
+}
+
+
+.table-view .column-header-background{
+    -fx-background-color: #52514B;
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: #67655E;
+    -fx-padding:12px 15px;
+    -fx-text-fill: #f5f5f5;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+    -fx-font-size:16px;
+    -fx-font-family: "Arial Black";
+}
+
+.table-view .table-cell{
+    -fx-text-fill: #3c3c3c;
+    -fx-font-size:14px;
+    -fx-padding: 10px 0px;
+    -fx-alignment: center;
+    -fx-font-family: "Arial Black";
+}
+
+.table-row-cell,.table-row-cell:odd{
+    -fx-background-color: -fx-table-cell-border-color, #E5E5E4;
+}
+
+.table-row-cell:empty:odd, .table-row-cell:empty:even {
+    -fx-background-color: transparent;
+
+}
+
+#statsDetailsTab,#searchMatchTab{
+    -fx-background-color:#a0a0a0;
+    -fx-font-weight:bold;
+    -fx-padding:5px 150px;
+}
+
+#title1{
+    -fx-font-weight:bold;
+    -fx-font-size:40px;
+    -fx-height:1000px;
+    -fx-padding:5px 25px;
+    -fx-text-fill:white;
+    -fx-font-family: "Arial Black";
+}
+
+#sortBtn{
+    -fx-background-color:#db251b;
+    -fx-text-fill:white;
+    -fx-padding:8px 35px;
+    -fx-font-weight:bold;
+    -fx-font-size:15px;
+    -fx-background-radius:20px
+}
+
+#addMatchBtn{
+    -fx-background-color:#949325;
+    -fx-text-fill:white;
+    -fx-padding:10px 37px;
+    -fx-font-weight:bold;
+    -fx-font-size:15px;
+    -fx-background-radius:20px;
+}
+
+#pastMatchLbl{
+-fx-font-Weight:bold;
+    -fx-font-size:15px;
+    -fx-background-Color:rgba(0,0,0,0.8);
+    -fx-background-radius:50px;
+    -fx-padding:-10px 100px 10px 0px;
+    -fx-text-fill:white
+}
+
+#leagueImg1,#leagueImg2{
+    -fx-opacity:0.9;
+}
+
+#searchBar,#searchButton{
+    -fx-background-radius:10px;
+    -fx-padding:10px 40px
+}
+
+#searchButton{
+    -fx-background-color:#104e56;
+    -fx-text-fill:white;
+}
+
+
+#title2{
+    -fx-font-weight:bold;
+    -fx-font-size:40px;
+    -fx-height:1000px;
+    -fx-padding:5px 25px;
+    -fx-text-fill:black;
+    -fx-background-color:lightgray;
+    -fx-background-radius:50px
+}

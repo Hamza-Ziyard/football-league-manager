@@ -16,13 +16,13 @@ This is football premier league manager concept code. The system will have the o
     10: Open JavaFX GUI
     11: Open Angular GUI
     
-### Languages Used for Development
+## Languages Used for Development
 
-This system is build using the different framworks each for backend, front-end and connection
+This system is build using the different framworks each for backend, front-end and connection . Their respective download links are attached by them.
 
-    Java : 1.8  ( Back-end )
-    Angular CLI: 11.0.5  ( Front-end )
-    sbt: 1.4.5 ( Connection )
+    Java : 1.8  ( Back-end )                --> https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+    Angular CLI: 11.0.5  ( Front-end )      --> https://cli.angular.io/
+    sbt: 1.4.5 ( Connection )               --> https://www.scala-sbt.org/download.html
     
 
 

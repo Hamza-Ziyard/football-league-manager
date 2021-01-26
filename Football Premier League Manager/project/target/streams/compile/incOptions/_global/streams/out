@@ -1,0 +1,10 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\HP\Desktop\PlayFinal\playfinal\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	FrontendCommands.class
+[debug] 	FrontendRunHook$UIBuildHook$1$.class
+[debug] 	FrontendCommands$.class
+[debug] 	FrontendRunHook.class
+[debug] 	FrontendRunHook$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\HP\Desktop\PlayFinal\playfinal\project\target\scala-2.12\sbt-1.0\classes.bak

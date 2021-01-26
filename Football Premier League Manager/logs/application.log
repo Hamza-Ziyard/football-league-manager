@@ -1,0 +1,14 @@
+2021-01-24 08:51:39 [31mWARN [0;39m [36mplay.api.http.HttpConfiguration[0;39m [35m[0;39m 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2021-01-24 08:51:39 [34mINFO [0;39m [36mplay.api.http.EnabledFilters[0;39m [35m[0;39m Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2021-01-24 08:51:39 [34mINFO [0;39m [36mplay.api.Play[0;39m [35m[0;39m Application started (Dev) (no global state)

@@ -26,9 +26,9 @@ This system is build using the different framworks each for backend, front-end a
     
 
 ### -- Download Links --
-⋅⋅* [Java](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+* [Java](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+  ___
+* [Angular](https://cli.angular.io/)
 
-⋅⋅* [Angular](https://cli.angular.io/)
-
-⋅⋅* [SBT](https://www.scala-sbt.org/download.html)
+* [SBT](https://www.scala-sbt.org/download.html)
     

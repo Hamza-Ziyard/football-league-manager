@@ -5,6 +5,8 @@ This is football premier league manager concept code. The system will have the o
     - Display the league table
     - Print statistics of a club
     - Add a match to the system
+    - Display matches played
+    - Search for a match played
     - Displaying played matches
     - Search for a played match
     - Open JavaFX GUI

@@ -25,5 +25,5 @@ This system is build using the different framworks each for backend, front-end a
     sbt: 1.4.5 ( Connection )               --> (https://www.scala-sbt.org/download.html)
     
 
-
+<https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html>
     

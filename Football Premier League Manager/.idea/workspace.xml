@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f63ea8a-0b0d-45d2-a304-de7a58488b3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ui/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/addmatch/addmatch.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/addmatch/addmatch.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/addmatch/addmatch.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/addmatch/addmatch.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/fClubServiceConnec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/footballClubService.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/pastgames/pastgames.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/pastgames/pastgames.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/pastgames/pastgames.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/pastgames/pastgames.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/stats/stats.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/stats/stats.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/stats/stats.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/app/stats/stats.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/fx images/bgImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/fx images/bgImg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/allison.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/arsenal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/champ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/chel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/chels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/chelsea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/debruyne.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/everton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/fin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/ground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/lcit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/lcity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/lcity1.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/left-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/liv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/liv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/liv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/liv2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/livchel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/livchel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/livi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/livmu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/ma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mainbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mc1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mc2.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mcmu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mcmu2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mu1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/mulogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/ozil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/pen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/plee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/pog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/pogba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/rash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/right-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/salah.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/salah1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/south.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/tot.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/tot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/totenham.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/trophy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/vardy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/images/wolves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/videos/bg2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/assets/videos/bg4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/src/proxy.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ui" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="Play2ProjectSettings">
+    <option name="LANGUAGE_IMPORTS">
+      <array>
+        <option value="_root_.play.twirl.api.JavaScript" />
+        <option value="_root_.play.twirl.api.Xml" />
+        <option value="play.data._" />
+        <option value="java.util._" />
+        <option value="play.core.j.PlayMagicForJava._" />
+        <option value="scala.jdk.CollectionConverters._" />
+        <option value="_root_.play.twirl.api.Html" />
+        <option value="play.mvc._" />
+        <option value="_root_.play.twirl.api.TwirlFeatureImports._" />
+        <option value="play.api.templates.PlayMagic._" />
+        <option value="_root_.play.twirl.api.Txt" />
+        <option value="play.api.data.Field" />
+        <option value="_root_.play.twirl.api.TwirlHelperImports._" />
+        <option value="java.lang._" />
+        <option value="play.core.j.PlayFormsMagicForJava._" />
+      </array>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1m7CJTcpBacMjMTjLptbZpsUWyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/video-conf-tutorial-master" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/ui/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="D:\IIT\Level 5\OOP\Coursework\Final Submission\w1761340\w1761340\PlayFinal\playfinal\ui\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FootballLeagueManager">
+    <configuration name="FootballLeagueManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controllers.FootballLeagueManager" />
+      <module name="playfinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controllers.JavaFXUI" />
+      <module name="playfinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FootballClubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="playfinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.FootballClubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FootballClubTest.setPointsOfFClub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="playfinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.FootballClubTest" />
+      <option name="METHOD_NAME" value="setPointsOfFClub" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SportsClubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="playfinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.SportsClubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (ui)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/ui/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/ui/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (ui)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server (ui)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/ui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FootballLeagueManager" />
+        <item itemvalue="Application.JavaFXUI" />
+        <item itemvalue="JUnit.SportsClubTest" />
+        <item itemvalue="JUnit.FootballClubTest" />
+        <item itemvalue="JUnit.FootballClubTest.setPointsOfFClub" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f63ea8a-0b0d-45d2-a304-de7a58488b3d" name="Default Changelist" comment="" />
+      <created>1608835172071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608835172071</updated>
+      <workItem from="1608835173484" duration="6979000" />
+      <workItem from="1608899037385" duration="2077000" />
+      <workItem from="1608901174835" duration="95000" />
+      <workItem from="1608905566880" duration="13329000" />
+      <workItem from="1608936104312" duration="127000" />
+      <workItem from="1608936260425" duration="1701000" />
+      <workItem from="1608939297880" duration="4996000" />
+      <workItem from="1608976861281" duration="13116000" />
+      <workItem from="1608997935012" duration="8509000" />
+      <workItem from="1609023345061" duration="516000" />
+      <workItem from="1609024041927" duration="3113000" />
+      <workItem from="1609063294194" duration="3412000" />
+      <workItem from="1609080514306" duration="8469000" />
+      <workItem from="1609112751642" duration="8248000" />
+      <workItem from="1609126282310" duration="6213000" />
+      <workItem from="1609144079860" duration="7910000" />
+      <workItem from="1609172190011" duration="4583000" />
+      <workItem from="1609183177099" duration="4014000" />
+      <workItem from="1609233883480" duration="6283000" />
+      <workItem from="1609254302298" duration="2121000" />
+      <workItem from="1609261545761" duration="4241000" />
+      <workItem from="1609326614287" duration="21486000" />
+      <workItem from="1609422889069" duration="1776000" />
+      <workItem from="1609454362500" duration="1263000" />
+      <workItem from="1609495198797" duration="24940000" />
+      <workItem from="1609581993921" duration="8852000" />
+      <workItem from="1609598902558" duration="14004000" />
+      <workItem from="1609665322191" duration="15009000" />
+      <workItem from="1609712251682" duration="450000" />
+      <workItem from="1609712766570" duration="73000" />
+      <workItem from="1609713084748" duration="70000" />
+      <workItem from="1609713290515" duration="662000" />
+      <workItem from="1609828118505" duration="721000" />
+      <workItem from="1609856752594" duration="928000" />
+      <workItem from="1610288112623" duration="3843000" />
+      <workItem from="1610380020061" duration="3592000" />
+      <workItem from="1610444035282" duration="2769000" />
+      <workItem from="1610528164486" duration="176000" />
+      <workItem from="1610528894516" duration="1465000" />
+      <workItem from="1610552909691" duration="1130000" />
+      <workItem from="1610692476375" duration="2583000" />
+      <workItem from="1610786387056" duration="4411000" />
+      <workItem from="1610797151738" duration="54000" />
+      <workItem from="1610814810553" duration="6554000" />
+      <workItem from="1610893550965" duration="1234000" />
+      <workItem from="1611230061098" duration="3188000" />
+      <workItem from="1611383430950" duration="3465000" />
+      <workItem from="1611415694752" duration="3768000" />
+      <workItem from="1611424326175" duration="1354000" />
+      <workItem from="1611457830802" duration="4170000" />
+      <workItem from="1611575106020" duration="99000" />
+      <workItem from="1611588681680" duration="1949000" />
+      <workItem from="1611601447507" duration="726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/models/FootballClubTest.java</url>
+          <line>32</line>
+          <properties class="models.FootballClubTest" method="setDrawsOfFClub">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

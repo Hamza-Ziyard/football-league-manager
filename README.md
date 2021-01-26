@@ -36,12 +36,12 @@ This system is build using the different framworks each for backend, front-end a
 ___
 ### Steps for setting up the code (Follow the steps in the terminal)
     
-First we have to navigate to the ui folder and instsll the node modules.
+1. Navigate to the ui folder and install the node modules.
 
     football-league-manager\Football Premier League Manager\ui
     npm install
     
-Then we have to add angular material design inside the ui folder
+2. Add angular material design inside the ui folder
 
     football-league-manager\Football Premier League Manager\ui
     ng add @angular/material

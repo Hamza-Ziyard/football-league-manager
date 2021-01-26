@@ -18,7 +18,7 @@ This is football premier league manager concept code. The system will have the o
     
 ## Languages Used for Development
 
-This system is build using the different framworks each for backend, front-end and connection . Their respective download links are attached by them.
+This system is build using the different framworks each for backend, front-end and connection . Their respective download links are attached below them.
 
     Java : 1.8  ( Back-end )                
     Angular CLI: 11.0.5  ( Front-end )      

@@ -32,4 +32,32 @@ This system is build using the different framworks each for backend, front-end a
 * [Angular](https://cli.angular.io/)
 
 * [SBT](https://www.scala-sbt.org/download.html)
+
+___
+### Steps for setting up the code (Follow the steps in the terminal)
     
+First we have to navigate to the ui folder and instsll the node modules.
+
+    football-league-manager\Football Premier League Manager\ui
+    npm install
+    
+Then we have to add angular material design inside the ui folder
+
+    football-league-manager\Football Premier League Manager\ui
+    ng add @angular/material
+    
+___
+### Steps to run the program
+
+1. Go to the terminal and run sbt -run inorder to connect both the front-end and the back-end.
+
+        football-league-manager\Football Premier League Manager
+        sbt run
+
+2. In order to run the backend of the system run the main method of the FootballLeagueManager.java class then we can use the functions through the output console.
+
+
+
+
+    
+   

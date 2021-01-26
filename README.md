@@ -16,7 +16,7 @@ This is football premier league manager concept code. The system will have the o
     10: Open JavaFX GUI
     11: Open Angular GUI
     
-## Languages Used for Development
+### Languages Used for Development
 
 This system is build using the different framworks each for backend, front-end and connection
 

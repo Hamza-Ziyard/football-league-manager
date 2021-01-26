@@ -1,4 +1,4 @@
-# football-league-manager
+# Football-Premier-League-Manager
 This is football premier league manager concept code. The system will have the options mentioned below.
     - Add a new club to the system
     - Delete a club from the system
